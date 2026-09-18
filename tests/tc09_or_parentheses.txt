@@ -1,0 +1,1 @@
+SELECT name FROM students WHERE (marks > 90 OR cgpa >= 9.0) AND age >= 18;

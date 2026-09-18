@@ -1,0 +1,1 @@
+SELECT name, cgpa FROM students WHERE cgpa >= 8.0;

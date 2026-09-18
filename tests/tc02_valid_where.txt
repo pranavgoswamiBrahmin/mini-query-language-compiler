@@ -1,0 +1,1 @@
+SELECT name, marks FROM students WHERE marks > 80 AND age >= 18;

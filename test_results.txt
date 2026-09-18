@@ -1,0 +1,13 @@
+Mini Query Language Compiler - Phase 2 Test Results
+======================================================================
+TC01: PASS | Valid query
+TC02: PASS | Valid query + AND
+TC03: PASS | Syntax error: missing FROM
+TC04: PASS | Semantic error: unknown field
+TC05: PASS | Semantic error: unknown table
+TC06: PASS | Syntax error: missing literal
+TC07: PASS | Valid string comparison
+TC08: PASS | Valid float comparison
+TC09: PASS | Valid OR + parentheses
+TC10: PASS | Lexical error: invalid @
+TC11: PASS | Semantic error: invalid string operator
